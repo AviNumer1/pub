@@ -8,3 +8,4 @@ instructins:
 
 the png image containing the following QR code will be saved were the QR.EXE file is when executed.
 Also added some office suits "download needed!"
+
